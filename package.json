@@ -23,5 +23,10 @@
   "homepage": "https://github.com/JuliaStepanenko/react_hw_4_npm#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "prettier": "^2.4.1"
   }
 }
