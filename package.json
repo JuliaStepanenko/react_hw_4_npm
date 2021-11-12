@@ -1,0 +1,27 @@
+{
+  "name": "react_hw_4_npm",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaStepanenko/react_hw_4_npm.git"
+  },
+  "keywords": [
+    "la",
+    "la",
+    "la"
+  ],
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaStepanenko/react_hw_4_npm/issues"
+  },
+  "homepage": "https://github.com/JuliaStepanenko/react_hw_4_npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
